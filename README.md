@@ -36,7 +36,7 @@ Please ensure your PowerPoint presentation includes a detailed approach for our 
 ![kpmg2](https://github.com/estherakinniyi/KPMG-Customer-Targeting-Advisory-project/assets/110997228/67b302c0-3886-4f51-a891-d562c9cedc32)
 
 
-- The above dashboard displays data highlights and key insights about Total Sales and Total Customers across different categories:
+**The above dashboard displays data highlights and key insights about Total Sales and Total Customers across different categories:**
 
 - Total Sales in October: In October, the total sales reached $1,909,751, the highest among all months. This amount was 13.24% higher than the lowest month, June, which had total sales of $1,686,425. October accounted for a significant portion, making up 8.93% of the total sales.
 
