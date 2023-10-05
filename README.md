@@ -36,3 +36,21 @@ Please ensure your PowerPoint presentation includes a detailed approach for our 
 ![kpmg2](https://github.com/estherakinniyi/KPMG-Customer-Targeting-Advisory-project/assets/110997228/67b302c0-3886-4f51-a891-d562c9cedc32)
 
 
+- The above dashboard displays data highlights and key insights about Total Sales and Total Customers across different categories:
+
+- Total Sales in October: In October, the total sales reached $1,909,751, the highest among all months. This amount was 13.24% higher than the lowest month, June, which had total sales of $1,686,425. October accounted for a significant portion, making up 8.93% of the total sales.
+
+- Total Sales Across Brands: Across all 6 brands, the total sales ranged from $2,578,143 to $4,398,318. This variation suggests that some brands are more successful in generating sales compared to others.
+
+- Total Sales by Industry: In terms of industry, Manufacturing had the highest total sales at $3,885,487, which was significantly higher (1,076.21%) than the lowest, which was Telecommunications at $330,340. Manufacturing contributed substantially, making up 20.57% of the total sales.
+
+- Total Sales by Job Industry Category: Across all 10 job industry categories, total sales ranged from $330,340 to $3,885,487. This data underscores the diversity in sales performance across different job industry categories.
+
+- Total Sales by Age Group: Among different age groups, "20-40" had the highest total sales at $9,724,159, surpassing "60+" which had the lowest total sales at $1,100,405 by a significant margin. "20-40" was the dominant age group, representing 45.47% of the total sales.
+
+- Total Customers by Segment: In terms of customer segments, "Hibernating customers" had the highest total number of customers, totaling 550. This number was 539.53% higher than "Cannot Lose Them," which had the lowest total customers at 86.
+
+- Total Customers Across Segments: Across all 11 segments, the total number of customers ranged from 86 to 550. This variation indicates that certain customer segments are more populated or active than others.
+
+
+
