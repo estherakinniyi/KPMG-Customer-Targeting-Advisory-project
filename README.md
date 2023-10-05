@@ -31,6 +31,8 @@ Please ensure your PowerPoint presentation includes a detailed approach for our 
 
 
 
-![sales 2](https://github.com/estherakinniyi/KPMG-Customer-Targeting-Advisory-project/assets/110997228/dbdd8fb0-a148-402f-b4d1-d6c06bb1dc62)
+![kpmg](https://github.com/estherakinniyi/KPMG-Customer-Targeting-Advisory-project/assets/110997228/5edf0d9a-5612-4198-9348-ed795a4fad6c)
 
-![sales](https://github.com/estherakinniyi/KPMG-Customer-Targeting-Advisory-project/assets/110997228/770fa095-a4ff-4a44-821d-d30345c29d1c)
+![kpmg2](https://github.com/estherakinniyi/KPMG-Customer-Targeting-Advisory-project/assets/110997228/67b302c0-3886-4f51-a891-d562c9cedc32)
+
+
